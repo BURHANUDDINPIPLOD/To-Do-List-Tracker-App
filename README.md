@@ -1,16 +1,11 @@
-# myapp
+# To-Do List Tracker App
 
-A new Flutter project.
+A simple and efficient To-Do List Tracker App to help you organize tasks and improve productivity. Built with **Flutter**, this app ensures a smooth and responsive user experience across all platforms.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Tasks**: Create tasks with custom names and details.
+- **Edit Tasks**: Modify task details anytime.
+- **Delete Tasks**: Remove completed or unnecessary tasks.
+- **Mark as Done**: Track progress by marking tasks as completed.
+- **User-Friendly Interface**: Clean and intuitive design for seamless usability.
